@@ -1,4 +1,4 @@
-# Flutter Internship Journey 🚀
+# Flutter Internship Journey :
 
 Welcome to my GitHub workspace.
 
